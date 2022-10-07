@@ -1,0 +1,111 @@
+/************************* TAG SELECTORS *************************/
+
+div {
+    background-color: #E4F9F5;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2rem;
+    margin: 80px auto 0 auto;
+    padding-top: 80px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+h3 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    margin: 0;
+    padding: 20px;
+
+}
+
+h4 {
+    color: #3D8361;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    margin: 0;
+    padding: 20px;
+
+}
+
+p {
+    margin-bottom: 0;
+    font-family: sans-serif;
+}
+
+hr {
+    margin: 0;
+}
+
+
+
+/************************* CLASS SELECTORS *************************/
+
+.topContainer {
+    /* background-color: #FEFFDE; */
+    padding: 230px;
+    background-image: linear-gradient(#FEFFDE, #DDFFBC);
+}
+
+.middleContainer {
+    /* background-color: #DDFFBC; */
+    padding: 20px;
+    background-image: linear-gradient(#DDFFBC, #91C788);
+}
+
+.bottomContainer {
+    background-color: #91C788;
+}
+
+
+.image1 {
+    background-color: transparent;
+    position: absolute;
+    top: 70px;
+}
+
+
+.image6 {
+    background-color: transparent;
+    position: absolute;
+    top: 250px;
+    right: 300px;
+}
+
+.imageT {
+    background-color: transparent;
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    left: 10%;
+
+}
+
+.myProfilePicture {
+    margin-top: 20px;
+    border: 2px;
+    border-radius: 100%;
+    width: 150px;
+    height: 190px;
+}
+
+
+/************************* ID SELECTORS *************************/
